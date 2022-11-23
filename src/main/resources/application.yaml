@@ -1,0 +1,4 @@
+hospital:
+  hospital:
+    jwtExpirationMs: 76300000
+    jwtSecret: knowledgeFactory
